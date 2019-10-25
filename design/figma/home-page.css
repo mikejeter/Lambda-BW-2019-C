@@ -1,0 +1,362 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #586F7C;
+
+
+/* Page-Header */
+
+position: absolute;
+width: 1367px;
+height: 252px;
+left: 40px;
+top: 27px;
+
+
+
+/* Header Section */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(city-colorful-commerce-757432.jpg);
+
+
+/* Nav Bar/Title */
+
+position: absolute;
+left: 1.32%;
+right: 1.24%;
+top: 11.9%;
+bottom: 16.27%;
+
+background: #C4C4C4;
+mix-blend-mode: screen;
+
+
+/* App Title */
+
+position: absolute;
+left: 33.07%;
+right: 32.99%;
+top: 50%;
+bottom: 16.27%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 85px;
+/* identical to box height, or 89% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Contact */
+
+position: absolute;
+left: 87.49%;
+right: 1.76%;
+top: 19.44%;
+bottom: 71.43%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Login */
+
+position: absolute;
+left: 71.76%;
+right: 20.34%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* FAQ */
+
+position: absolute;
+left: 55.96%;
+right: 36.06%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Showcase */
+
+position: absolute;
+left: 35.99%;
+right: 51.87%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* About Us */
+
+position: absolute;
+left: 17.26%;
+right: 71.84%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Home */
+
+position: absolute;
+left: 1.54%;
+right: 90.56%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* bags-commerce */
+
+position: absolute;
+width: 490px;
+height: 210px;
+left: 40px;
+top: 322px;
+
+background: url(bags-commerce-goods-1087727.jpg);
+
+
+/* intro */
+
+position: absolute;
+width: 842px;
+height: 210px;
+left: 547px;
+top: 322px;
+
+
+
+/* we-are-section */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #1F2041;
+
+
+/* section-title */
+
+position: absolute;
+left: 36.22%;
+right: 37.77%;
+top: 3.81%;
+bottom: 76.67%;
+
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* par1 */
+
+position: absolute;
+left: 1.31%;
+right: 2.97%;
+top: 34.29%;
+bottom: 19.05%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* goals */
+
+position: absolute;
+width: 490px;
+height: 344px;
+left: 40px;
+top: 574px;
+
+
+
+/* goal-section */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #19647E;
+
+
+/* section-title */
+
+position: absolute;
+left: 26.54%;
+right: 29.22%;
+top: 4.94%;
+bottom: 78.78%;
+
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* par1 */
+
+position: absolute;
+left: 2.06%;
+right: 4.53%;
+top: 24.71%;
+bottom: 43.31%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* par2 */
+
+position: absolute;
+left: 2.06%;
+right: 4.53%;
+top: 70.35%;
+bottom: 3.49%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* marketplace */
+
+position: absolute;
+width: 842px;
+height: 343px;
+left: 547px;
+top: 575px;
+
+background: url(market-woman.jpg);

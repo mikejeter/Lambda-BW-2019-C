@@ -1,0 +1,439 @@
+/* about-us */
+
+position: relative;
+width: 1440px;
+height: 1060px;
+
+background: #1F2041;
+
+
+/* Page-Header */
+
+position: absolute;
+width: 1367px;
+height: 182px;
+left: 36px;
+top: 26px;
+
+
+
+/* Header Section */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(city-colorful-commerce-757432.jpg);
+
+
+/* Nav Bar/Title */
+
+position: absolute;
+left: 1.32%;
+right: 1.24%;
+top: 11.9%;
+bottom: 16.27%;
+
+background: #C4C4C4;
+mix-blend-mode: screen;
+
+
+/* App Title */
+
+position: absolute;
+left: 33.07%;
+right: 32.99%;
+top: 43.41%;
+bottom: 9.89%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 85px;
+/* identical to box height, or 89% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Contact */
+
+position: absolute;
+left: 87.49%;
+right: 1.76%;
+top: 19.44%;
+bottom: 71.43%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Login */
+
+position: absolute;
+left: 71.76%;
+right: 20.34%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* FAQ */
+
+position: absolute;
+left: 55.96%;
+right: 36.06%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Showcase */
+
+position: absolute;
+left: 35.99%;
+right: 51.87%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* About Us */
+
+position: absolute;
+left: 17.26%;
+right: 71.84%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Home */
+
+position: absolute;
+left: 1.54%;
+right: 90.56%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* leigh */
+
+position: absolute;
+width: 153px;
+height: 146px;
+left: 445px;
+top: 870px;
+
+background: url(leigh.jpg);
+
+
+/* jay-lee */
+
+position: absolute;
+width: 153px;
+height: 146px;
+left: 22px;
+top: 247px;
+
+background: url(jay-lee.jpg);
+
+
+/* leisha */
+
+position: absolute;
+width: 153px;
+height: 146px;
+left: 918px;
+top: 243px;
+
+background: url(leisha.jpg);
+
+
+/* Project Lead: Leigh Martin github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 598px;
+top: 880px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 85px;
+/* or 472% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* UI Developer & UX Designer: Jay Lee Kennedy github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 183px;
+top: 247px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 49px;
+/* or 272% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* UI Developer & UX Designer: Leisha Banks github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 1071px;
+top: 243px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 49px;
+/* or 272% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Unit 3 Developer: Jacquline Omollo github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 1071px;
+top: 699px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 85px;
+/* or 472% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Unit 3 Developer: Michael Jeter github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 213px;
+top: 699px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 85px;
+/* or 472% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Unit 2 Developer: Eva Gurtovaia github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 1082px;
+top: 455px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 85px;
+/* or 472% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Unit 2 Developer: Aleesha Wood github repo & intro paragraph */
+
+position: absolute;
+width: 350px;
+height: 126px;
+left: 177px;
+top: 455px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 85px;
+/* or 472% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* aleesha */
+
+position: absolute;
+width: 153px;
+height: 151px;
+left: 22px;
+top: 455px;
+
+background: url(aleesha.jpg);
+
+
+/* eva */
+
+position: absolute;
+width: 153px;
+height: 151px;
+left: 918px;
+top: 447px;
+
+background: url(eva.jpg);
+
+
+/* jacqueline */
+
+position: absolute;
+width: 153px;
+height: 151px;
+left: 918px;
+top: 680px;
+
+background: url(jacqueline.jpg);
+
+
+/* michael */
+
+position: absolute;
+width: 153px;
+height: 139px;
+left: 36px;
+top: 692px;
+
+background: url(michael.jpg);

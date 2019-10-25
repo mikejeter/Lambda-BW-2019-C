@@ -1,0 +1,373 @@
+/* contact */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #1F2041;
+
+
+/* Page-Header */
+
+position: absolute;
+width: 1367px;
+height: 252px;
+left: 36px;
+top: 27px;
+
+
+
+/* Header Section */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(city-colorful-commerce-757432.jpg);
+
+
+/* Nav Bar/Title */
+
+position: absolute;
+left: 1.32%;
+right: 1.24%;
+top: 11.9%;
+bottom: 16.27%;
+
+background: #C4C4C4;
+mix-blend-mode: screen;
+
+
+/* App Title */
+
+position: absolute;
+left: 33.07%;
+right: 32.99%;
+top: 50%;
+bottom: 16.27%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 85px;
+/* identical to box height, or 89% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Contact */
+
+position: absolute;
+left: 87.49%;
+right: 1.76%;
+top: 19.44%;
+bottom: 71.43%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Login */
+
+position: absolute;
+left: 71.76%;
+right: 20.34%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* FAQ */
+
+position: absolute;
+left: 55.96%;
+right: 36.06%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Showcase */
+
+position: absolute;
+left: 35.99%;
+right: 51.87%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* About Us */
+
+position: absolute;
+left: 17.26%;
+right: 71.84%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Home */
+
+position: absolute;
+left: 1.54%;
+right: 90.56%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* contact-us */
+
+position: absolute;
+width: 989px;
+height: 685px;
+left: 225px;
+top: 312px;
+
+background: #19647E;
+
+
+/* artistic */
+
+position: absolute;
+width: 903px;
+height: 138px;
+left: 245px;
+top: 331px;
+
+background: url(artistic-arts.jpg);
+
+
+/* GET IN TOUCH */
+
+position: absolute;
+width: 516px;
+height: 65px;
+left: 461px;
+top: 361px;
+
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 48px;
+line-height: 65px;
+text-align: center;
+
+color: #FFC857;
+
+
+
+/* name */
+
+position: absolute;
+width: 405px;
+height: 54px;
+left: 245px;
+top: 534px;
+
+background: #C4C4C4;
+
+
+/* email */
+
+position: absolute;
+width: 405px;
+height: 55px;
+left: 245px;
+top: 621px;
+
+background: #C4C4C4;
+
+
+/* message */
+
+position: absolute;
+width: 405px;
+height: 199px;
+left: 245px;
+top: 720px;
+
+background: #C4C4C4;
+
+
+/* Name */
+
+position: absolute;
+width: 170px;
+height: 22px;
+left: 318px;
+top: 556px;
+
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Email */
+
+position: absolute;
+width: 170px;
+height: 22px;
+left: 318px;
+top: 644px;
+
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Message */
+
+position: absolute;
+width: 170px;
+height: 22px;
+left: 318px;
+top: 763px;
+
+font-family: Open Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* connect text */
+
+position: absolute;
+width: 381px;
+height: 54px;
+left: 767px;
+top: 534px;
+
+background: #C4C4C4;
+
+
+/* call-to-action */
+
+position: absolute;
+width: 362px;
+height: 35px;
+left: 777px;
+top: 543px;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+text-align: justify;
+
+color: #000000;
+
+
+
+/* drums */
+
+position: absolute;
+width: 381px;
+height: 276px;
+left: 767px;
+top: 635px;
+
+background: url(crafts-drums-handmade-158664.jpg);
