@@ -127,7 +127,7 @@ table {
   color: white;
   text-decoration: none;
 }
-@media (max-width:880px;) {
+@media (max-width:880px) {
   * {
     background: #46586c;
   }
@@ -142,7 +142,7 @@ table {
   text-align: center;
   font-size: large;
 }
-@media (max-width:880px;) {
+@media (max-width:880px) {
   * h1 {
     color: #220f4c;
   }
@@ -194,7 +194,7 @@ table {
   text-align: center;
   align-items: center;
 }
-@media (max-width:880px;) {
+@media (max-width:880px) {
   * li {
     width: 45px;
   }
@@ -218,7 +218,7 @@ table {
   background-size: cover;
   position: relative;
 }
-@media (max-width:880px;) {
+@media (max-width:880px) {
   .nav-container {
     width: 800px;
     background: #220f4c;
@@ -238,7 +238,7 @@ table {
   padding: 5% 5% 5% 4%;
   font-size: 380%;
 }
-@media (max-width:880px;) {
+@media (max-width:880px) {
   .social i {
     font-size: 180%;
   }
@@ -345,7 +345,7 @@ img {
   height: 200px;
   border-radius: 50%;
 }
-@media (max-width:880px;) {
+@media (max-width:880px) {
   img {
     height: 150px;
     width: 150px;
