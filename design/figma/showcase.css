@@ -1,0 +1,267 @@
+/* showcase */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #586F7C;
+
+
+/* Page-Header */
+
+position: absolute;
+width: 1367px;
+height: 252px;
+left: 37px;
+top: 25px;
+
+
+
+/* Header Section */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(city-colorful-commerce-757432.jpg);
+
+
+/* Nav Bar/Title */
+
+position: absolute;
+left: 1.32%;
+right: 1.24%;
+top: 11.9%;
+bottom: 16.27%;
+
+background: #C4C4C4;
+mix-blend-mode: screen;
+
+
+/* App Title */
+
+position: absolute;
+left: 33.07%;
+right: 32.99%;
+top: 50%;
+bottom: 16.27%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 85px;
+/* identical to box height, or 89% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Contact */
+
+position: absolute;
+left: 87.49%;
+right: 1.76%;
+top: 19.44%;
+bottom: 71.43%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Login */
+
+position: absolute;
+left: 71.76%;
+right: 20.34%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* FAQ */
+
+position: absolute;
+left: 55.96%;
+right: 36.06%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Showcase */
+
+position: absolute;
+left: 35.99%;
+right: 51.87%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* About Us */
+
+position: absolute;
+left: 17.26%;
+right: 71.84%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* Home */
+
+position: absolute;
+left: 1.54%;
+right: 90.56%;
+top: 16.27%;
+bottom: 68.25%;
+
+font-family: Domine;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 85px;
+/* or 354% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #19647E;
+
+
+
+/* zapphaire */
+
+position: absolute;
+width: 421px;
+height: 233px;
+left: 966px;
+top: 598px;
+
+background: url(zapphaire.jpg);
+
+
+/* mhub */
+
+position: absolute;
+width: 421px;
+height: 233px;
+left: 510px;
+top: 598px;
+
+background: url(mhub.jpg);
+
+
+/* kiyom */
+
+position: absolute;
+width: 421px;
+height: 233px;
+left: 48px;
+top: 598px;
+
+background: url(kiyom.jpg);
+
+
+/* phatsima */
+
+position: absolute;
+width: 421px;
+height: 233px;
+left: 966px;
+top: 296px;
+
+background: url(african-luxx.jpg);
+
+
+/* afrobotanics */
+
+position: absolute;
+width: 421px;
+height: 233px;
+left: 510px;
+top: 296px;
+
+background: url(afrobotanics.jpg);
+
+
+/* portia */
+
+position: absolute;
+width: 421px;
+height: 233px;
+left: 48px;
+top: 296px;
+
+background: url(portia.jpg);
